@@ -1,5 +1,13 @@
 
+"""
+Problem 1: Is Possible
+Consider a pair of intergers (a,b). The following operations can be performed on a,b in any order, zero or more times
 
+* (a,b) -> (a+b,b)
+
+*(a,b)-> (a,a+b)
+
+Return a string that denotes whether or not (a,b) can be converted to (c,d) by performing the operation zero or more times"""
 
 #recursive DFS approach:
 def is_possible(a:int, b:int, c:int, d:int) -> str:
