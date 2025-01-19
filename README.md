@@ -1,3 +1,4 @@
-# DSA Leetcode/Hackerrank problems solutions
+# Code snippets by myself!
 
-This repo has some DSA problems solutions that I wrote in python
+Some code snippets I made. Here I can put DSA/leetcode problems solution, assignments from university and other cool stuff.
+
